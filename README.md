@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scastarnado&label=Profile%20views&color=0e75b6&style=flat-square" alt="scastarnado" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scastarnado" alt="scastarnado" /></a> </p>
-
 - 🔭 I’m currently working on **React web app to manage human resources**
 
 - 🌱 I’m currently learning **React, C#, Assembly...**
